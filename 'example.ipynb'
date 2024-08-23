@@ -1,0 +1,17 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b9d8c2d9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print(\"Hello, QIIME2 on Binder!\")"
+   ]
+  }
+ ],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
